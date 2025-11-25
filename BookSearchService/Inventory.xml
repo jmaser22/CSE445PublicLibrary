@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+	<Book>
+		<Title>To Kill a Mockingbird</Title>
+		<Author>Harper Lee</Author>
+	</Book>
+	<Book>
+		<Title>1984</Title>
+		<Author>George Orwell</Author>
+	</Book>
+	<Book>
+		<Title>Pride and Prejudice</Title>
+		<Author>Jane Austen</Author>
+	</Book>
+	<Book>
+		<Title>The Great Gatsby</Title>
+		<Author>F. Scott Fitzgerald</Author>
+	</Book>
+	<Book>
+		<Title>Moby-Dick</Title>
+		<Author>Herman Melville</Author>
+	</Book>
+	<Book>
+		<Title>War and Peace</Title>
+		<Author>Leo Tolstoy</Author>
+	</Book>
+	<Book>
+		<Title>The Catcher in the Rye</Title>
+		<Author>J.D. Salinger</Author>
+	</Book>
+	<Book>
+		<Title>The Hobbit</Title>
+		<Author>J.R.R. Tolkien</Author>
+	</Book>
+	<Book>
+		<Title>Crime and Punishment</Title>
+		<Author>Fyodor Dostoevsky</Author>
+	</Book>
+	<Book>
+		<Title>The Odyssey</Title>
+		<Author>Homer</Author>
+	</Book>
+	<Book>
+		<Title>Brave New World</Title>
+		<Author>Aldous Huxley</Author>
+	</Book>
+	<Book>
+		<Title>Jane Eyre</Title>
+		<Author>Charlotte Brontë</Author>
+	</Book>
+	<Book>
+		<Title>Wuthering Heights</Title>
+		<Author>Emily Brontë</Author>
+	</Book>
+	<Book>
+		<Title>The Lord of the Rings</Title>
+		<Author>J.R.R. Tolkien</Author>
+	</Book>
+	<Book>
+		<Title>The Brothers Karamazov</Title>
+		<Author>Fyodor Dostoevsky</Author>
+	</Book>
+	<Book>
+		<Title>Fahrenheit 451</Title>
+		<Author>Ray Bradbury</Author>
+	</Book>
+	<Book>
+		<Title>Animal Farm</Title>
+		<Author>George Orwell</Author>
+	</Book>
+	<Book>
+		<Title>Great Expectations</Title>
+		<Author>Charles Dickens</Author>
+	</Book>
+	<Book>
+		<Title>Little Women</Title>
+		<Author>Louisa May Alcott</Author>
+	</Book>
+	<Book>
+		<Title>Dracula</Title>
+		<Author>Bram Stoker</Author>
+	</Book>
+	<Book>
+		<Title>Frankenstein</Title>
+		<Author>Mary Shelley</Author>
+	</Book>
+	<Book>
+		<Title>The Grapes of Wrath</Title>
+		<Author>John Steinbeck</Author>
+	</Book>
+	<Book>
+		<Title>Les Misérables</Title>
+		<Author>Victor Hugo</Author>
+	</Book>
+	<Book>
+		<Title>The Count of Monte Cristo</Title>
+		<Author>Alexandre Dumas</Author>
+	</Book>
+	<Book>
+		<Title>The Picture of Dorian Gray</Title>
+		<Author>Oscar Wilde</Author>
+	</Book>
+	<Book>
+		<Title>Catch-22</Title>
+		<Author>Joseph Heller</Author>
+	</Book>
+	<Book>
+		<Title>Don Quixote</Title>
+		<Author>Miguel de Cervantes</Author>
+	</Book>
+	<Book>
+		<Title>The Stranger</Title>
+		<Author>Albert Camus</Author>
+	</Book>
+	<Book>
+		<Title>Anna Karenina</Title>
+		<Author>Leo Tolstoy</Author>
+	</Book>
+	<Book>
+		<Title>One Hundred Years of Solitude</Title>
+		<Author>Gabriel García Márquez</Author>
+	</Book>
+	<Book>
+		<Title>Slaughterhouse-Five</Title>
+		<Author>Kurt Vonnegut</Author>
+	</Book>
+	<Book>
+		<Title>The Sound and the Fury</Title>
+		<Author>William Faulkner</Author>
+	</Book>
+	<Book>
+		<Title>Lolita</Title>
+		<Author>Vladimir Nabokov</Author>
+	</Book>
+	<Book>
+		<Title>A Tale of Two Cities</Title>
+		<Author>Charles Dickens</Author>
+	</Book>
+	<Book>
+		<Title>The Kite Runner</Title>
+		<Author>Khaled Hosseini</Author>
+	</Book>
+	<Book>
+		<Title>The Alchemist</Title>
+		<Author>Paulo Coelho</Author>
+	</Book>
+	<Book>
+		<Title>The Chronicles of Narnia</Title>
+		<Author>C.S. Lewis</Author>
+	</Book>
+	<Book>
+		<Title>Harry Potter and the Sorcerer's Stone</Title>
+		<Author>J.K. Rowling</Author>
+	</Book>
+	<Book>
+		<Title>The Da Vinci Code</Title>
+		<Author>Dan Brown</Author>
+	</Book>
+	<Book>
+		<Title>Gone with the Wind</Title>
+		<Author>Margaret Mitchell</Author>
+	</Book>
+	<Book>
+		<Title>The Road</Title>
+		<Author>Cormac McCarthy</Author>
+	</Book>
+	<Book>
+		<Title>Beloved</Title>
+		<Author>Toni Morrison</Author>
+	</Book>
+	<Book>
+		<Title>The Handmaid's Tale</Title>
+		<Author>Margaret Atwood</Author>
+	</Book>
+	<Book>
+		<Title>Memoirs of a Geisha</Title>
+		<Author>Arthur Golden</Author>
+	</Book>
+	<Book>
+		<Title>The Girl with the Dragon Tattoo</Title>
+		<Author>Stieg Larsson</Author>
+	</Book>
+	<Book>
+		<Title>Life of Pi</Title>
+		<Author>Yann Martel</Author>
+	</Book>
+	<Book>
+		<Title>The Fault in Our Stars</Title>
+		<Author>John Green</Author>
+	</Book>
+	<Book>
+		<Title>The Hunger Games</Title>
+		<Author>Suzanne Collins</Author>
+	</Book>
+	<Book>
+		<Title>Dune</Title>
+		<Author>Frank Herbert</Author>
+	</Book>
+	<Book>
+		<Title>Ender's Game</Title>
+		<Author>Orson Scott Card</Author>
+	</Book>
+	<Book>
+		<Title>A Game of Thrones</Title>
+		<Author>George R.R. Martin</Author>
+	</Book>
+	<Book>
+		<Title>The Shining</Title>
+		<Author>Stephen King</Author>
+	</Book>
+	<Book>
+		<Title>It</Title>
+		<Author>Stephen King</Author>
+	</Book>
+	<Book>
+		<Title>Misery</Title>
+		<Author>Stephen King</Author>
+	</Book>
+	<Book>
+		<Title>Carrie</Title>
+		<Author>Stephen King</Author>
+	</Book>
+	<Book>
+		<Title>The Stand</Title>
+		<Author>Stephen King</Author>
+	</Book>
+	<Book>
+		<Title>The Martian</Title>
+		<Author>Andy Weir</Author>
+	</Book>
+	<Book>
+		<Title>Ready Player One</Title>
+		<Author>Ernest Cline</Author>
+	</Book>
+	<Book>
+		<Title>The Catcher Was a Spy</Title>
+		<Author>Nicholas Dawidoff</Author>
+	</Book>
+	<Book>
+		<Title>The Secret Garden</Title>
+		<Author>Frances Hodgson Burnett</Author>
+	</Book>
+	<Book>
+		<Title>The Wind in the Willows</Title>
+		<Author>Kenneth Grahame</Author>
+	</Book>
+	<Book>
+		<Title>Charlotte's Web</Title>
+		<Author>E.B. White</Author>
+	</Book>
+	<Book>
+		<Title>The Jungle Book</Title>
+		<Author>Rudyard Kipling</Author>
+	</Book>
+	<Book>
+		<Title>Alice's Adventures in Wonderland</Title>
+		<Author>Lewis Carroll</Author>
+	</Book>
+	<Book>
+		<Title>Through the Looking-Glass</Title>
+		<Author>Lewis Carroll</Author>
+	</Book>
+	<Book>
+		<Title>The Little Prince</Title>
+		<Author>Antoine de Saint-Exupéry</Author>
+	</Book>
+	<Book>
+		<Title>The Giver</Title>
+		<Author>Lois Lowry</Author>
+	</Book>
+	<Book>
+		<Title>Matilda</Title>
+		<Author>Roald Dahl</Author>
+	</Book>
+	<Book>
+		<Title>Charlie and the Chocolate Factorye</Title>
+		<Author>Roald Dahl</Author>
+	</Book>
+	<Book>
+		<Title>James and the Giant Peach</Title>
+		<Author>Roald Dahl</Author>
+	</Book>
+	<Book>
+		<Title>The BFG</Title>
+		<Author>Roald Dahl</Author>
+	</Book>
+	<Book>
+		<Title>The Tale of Peter Rabbit</Title>
+		<Author>Beatrix Potter</Author>
+	</Book>
+	<Book>
+		<Title>Where the Wild Things Are</Title>
+		<Author>Maurice Sendak</Author>
+	</Book>
+	<Book>
+		<Title>Goodnight Moon</Title>
+		<Author>Margaret Wise Brown</Author>
+	</Book>
+	<Book>
+		<Title>Green Eggs and Ham</Title>
+		<Author>Dr. Seuss</Author>
+	</Book>
+	<Book>
+		<Title>The Cat in the Hat</Title>
+		<Author>Dr. Seuss</Author>
+	</Book>
+	<Book>
+		<Title>Oh, the Places You'll Go!</Title>
+		<Author>Dr. Seuss</Author>
+	</Book>
+	<Book>
+		<Title>Holes</Title>
+		<Author>Louis Sachar</Author>
+	</Book>
+	<Book>
+		<Title>Wonder</Title>
+		<Author>R.J. Palacio</Author>
+	</Book>
+	<Book>
+		<Title>The Maze Runner</Title>
+		<Author>James Dashner</Author>
+	</Book>
+	<Book>
+		<Title>Divergent</Title>
+		<Author>Veronica Roth</Author>
+	</Book>
+	<Book>
+		<Title>Twilight</Title>
+		<Author>Stephenie Meyer</Author>
+	</Book>
+	<Book>
+		<Title>Looking for Alaska</Title>
+		<Author>John Green</Author>
+	</Book>
+	<Book>
+		<Title>Paper Towns</Title>
+		<Author>John Green</Author>
+	</Book>
+	<Book>
+		<Title>The Outsiders</Title>
+		<Author>S.E. Hinton</Author>
+	</Book>
+	<Book>
+		<Title>Bridge to Terabithia</Title>
+		<Author>Katherine Paterson</Author>
+	</Book>
+	<Book>
+		<Title>The Lightning Thief</Title>
+		<Author>Rick Riordan</Author>
+	</Book>
+	<Book>
+		<Title>Percy Jackson and the Olympians</Title>
+		<Author>Rick Riordan</Author>
+	</Book>
+	<Book>
+		<Title>The Heroes of Olympus</Title>
+		<Author>Rick Riordan</Author>
+	</Book>
+	<Book>
+		<Title>Magnus Chase and the Gods of Asgard</Title>
+		<Author>Rick Riordan</Author>
+	</Book>
+	<Book>
+		<Title>The Mortal Instruments</Title>
+		<Author>Cassandra Clare</Author>
+	</Book>
+	<Book>
+		<Title>The Heroes of Olympus</Title>
+		<Author>Cassandra Clare</Author>
+	</Book>
+	<Book>
+		<Title>City of Bones</Title>
+		<Author>Cassandra Clare</Author>
+	</Book>
+	<Book>
+		<Title>The Infernal Devices</Title>
+		<Author>Cassandra Clare</Author>
+	</Book>
+	<Book>
+		<Title>Clockwork Angel</Title>
+		<Author>Cassandra Clare</Author>
+	</Book>
+	<Book>
+		<Title>Coraline</Title>
+		<Author>Neil Gaiman</Author>
+	</Book>
+	<Book>
+		<Title>American Gods</Title>
+		<Author>Neil Gaiman</Author>
+	</Book>
+	<Book>
+		<Title>The Holy Bible</Title>
+		<Author>Jesus</Author>
+	</Book>
+</Books>

@@ -1,0 +1,2 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="BookSearchService.bookSearchService" CodeBehind="bookSearchService.svc.cs"
+     Factory="System.ServiceModel.Activation.WebServiceHostFactory" %>

@@ -1,0 +1,10 @@
+C:\Users\minoo\CSE445\Assignment6\BookSearchService\bin\BookSearchService.dll.config
+C:\Users\minoo\CSE445\Assignment6\BookSearchService\bin\BookSearchService.dll
+C:\Users\minoo\CSE445\Assignment6\BookSearchService\bin\BookSearchService.pdb
+C:\Users\minoo\CSE445\Assignment6\BookSearchService\bin\XmlSearch.dll
+C:\Users\minoo\CSE445\Assignment6\BookSearchService\bin\XmlSearch.pdb
+C:\Users\minoo\CSE445\Assignment6\BookSearchService\obj\Debug\BookSearchService.csproj.AssemblyReference.cache
+C:\Users\minoo\CSE445\Assignment6\BookSearchService\obj\Debug\BookSearchService.csproj.CoreCompileInputs.cache
+C:\Users\minoo\CSE445\Assignment6\BookSearchService\obj\Debug\BookSear.67F92DCA.Up2Date
+C:\Users\minoo\CSE445\Assignment6\BookSearchService\obj\Debug\BookSearchService.dll
+C:\Users\minoo\CSE445\Assignment6\BookSearchService\obj\Debug\BookSearchService.pdb

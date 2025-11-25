@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="c61aeba5-669f-4957-9855-094a7c945c3f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:62735/CheckoutService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CheckoutService.xsd" MetadataType="Schema" ID="6afaa3c8-878b-4320-8f04-4beeee49310a" SourceId="1" SourceUrl="http://localhost:62735/CheckoutService.svc?xsd=xsd0" />
+    <MetadataFile FileName="CheckoutService.disco" MetadataType="Disco" ID="0849199c-58d8-4162-93eb-2e30147224b4" SourceId="1" SourceUrl="http://localhost:62735/CheckoutService.svc?disco" />
+    <MetadataFile FileName="CheckoutService.wsdl" MetadataType="Wsdl" ID="a427116d-8d98-4688-9dae-7da936f6b003" SourceId="1" SourceUrl="http://localhost:62735/CheckoutService.svc?wsdl" />
+    <MetadataFile FileName="CheckoutService1.xsd" MetadataType="Schema" ID="ac2d5c8d-84f2-490b-accb-8af0380cea2e" SourceId="1" SourceUrl="http://localhost:62735/CheckoutService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

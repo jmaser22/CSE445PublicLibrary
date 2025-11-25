@@ -1,0 +1,6 @@
+C:\Users\minoo\CSE445\Assignment6\XmlSearch\bin\Debug\XmlSearch.dll
+C:\Users\minoo\CSE445\Assignment6\XmlSearch\bin\Debug\XmlSearch.pdb
+C:\Users\minoo\CSE445\Assignment6\XmlSearch\obj\Debug\XmlSearch.csproj.AssemblyReference.cache
+C:\Users\minoo\CSE445\Assignment6\XmlSearch\obj\Debug\XmlSearch.csproj.CoreCompileInputs.cache
+C:\Users\minoo\CSE445\Assignment6\XmlSearch\obj\Debug\XmlSearch.dll
+C:\Users\minoo\CSE445\Assignment6\XmlSearch\obj\Debug\XmlSearch.pdb
