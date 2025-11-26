@@ -238,6 +238,7 @@ namespace LoginService
             //Attach new user to the xml file
             root.AppendChild(NewUser);
 
+
             userData.Save(userDataFp);
 
 

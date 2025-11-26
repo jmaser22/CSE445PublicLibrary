@@ -10,4 +10,9 @@
     <EncryptedPassword>NwZxmssmodSCsjJawM2XGKaNt1xGmVsO/Cb 9uPl9 JUikhlUAjMX2qEX1g0E/OfFfFma6Cpi4z7hNhV 3221A==</EncryptedPassword>
     <Role>Staff</Role>
   </User>
+  <User>
+    <Username>jack</Username>
+    <EncryptedPassword>n3V9vFqoT689rxhlPRK/YpugkjsEsiiGRLqdjgVOn4jX6zs9l/d1zBfiNXWti8sA3Bmfpw5FussWAjkuzsM89g==</EncryptedPassword>
+    <Role>Member</Role>
+  </User>
 </Users>

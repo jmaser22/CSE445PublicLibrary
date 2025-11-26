@@ -19,7 +19,13 @@
         <asp:Label ID="Label3" runat="server" Text="Results"></asp:Label>
         <p>
             <asp:Label ID="Label4" runat="server"></asp:Label>
+            
+        </p>
+        <p>
            
+            <asp:Button ID="ReturnButton" runat="server" OnClick="ReturnButton_Click1" Text="Back" />
+           
+        </p>
     </form>
 </body>
 </html>

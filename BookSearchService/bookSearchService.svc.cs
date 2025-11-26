@@ -13,10 +13,8 @@ namespace BookSearchService
     public class bookSearchService : IbookSearchService
     {
 
-        //ROGER
         //need to figure out the security block to bypass 403 forbidden code. using local host for now
-        private const string XmlUrl = "http://localhost:63898/Inventory.xml"; // your file URL
-        //file://webstrar.fulton.asu.edu/website20/Page0/inventory.xml wbestrar link
+        private const string XmlUrl = "http://webstrar20.fulton.asu.edu/page10/Inventory.xml"; // your file URL
 
         //search for keyword in the inventory.xml file
         public List<XmlSearch.XmlSearch.Book> SearchBook(string keyword)

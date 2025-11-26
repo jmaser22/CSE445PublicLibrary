@@ -19,14 +19,14 @@ namespace CSE445PublicLibrary
         {
 
             //search service
-            Response.Redirect("searchPage.aspx");  //ROGER: WRONG URL
+            Response.Redirect("http://webstrar20.fulton.asu.edu/page0/SearchPage.aspx");
         }
 
         protected void Button2_Click(object sender, EventArgs e)
         {
 
             //memberpage
-            Response.Redirect("Member/MemberPage.aspx"); //ROGER :WRong url
+            Response.Redirect("http://webstrar20.fulton.asu.edu/page4/MemberPage.aspx");
 
         }
 
@@ -41,13 +41,13 @@ namespace CSE445PublicLibrary
         protected void Button4_Click(object sender, EventArgs e)
         {
             //login page
-            Response.Redirect("Login.aspx");
+            Response.Redirect("http://webstrar20.fulton.asu.edu/page0/Login.aspx");
         }
         protected void Button5_Click(object sender, EventArgs e)
         {
 
             //register page
-            Response.Redirect("Registration.aspx");
+            Response.Redirect("http://webstrar20.fulton.asu.edu/page0/Registration.aspx");
         }
 
     }

@@ -22,7 +22,7 @@ namespace CSE445PublicLibrary
         protected async void SearchButton_Click(object sender, EventArgs e)
         {
             //send REST call to bookSearchService
-            string url = "http://localhost:63898/bookSearchService.svc/SearchBook?keyword=" + KeywordBox.Text;
+            string url = "http://webstrar20.fulton.asu.edu/page2/bookSearchService.svc/SearchBook?keyword=" + KeywordBox.Text;
             string result = await CallRestServiceAsync(url);
 
 
@@ -46,7 +46,7 @@ namespace CSE445PublicLibrary
             catch (Exception ex)
             {
                 // Fallback if result is not JSON
-                Label4.Text = "Raw: " + ex.Message;
+                Label4.Text = "Raw: " + result  + " ~~~~~~~~~~~~~~"+ ex.Message;
             }
         }
 
@@ -74,6 +74,12 @@ namespace CSE445PublicLibrary
                     return $"Error: {ex.Message}";
                 }
             }
+        }
+
+
+        protected void ReturnButton_Click1(object sender, EventArgs e)
+        {
+            Response.Redirect("http://webstrar20.fulton.asu.edu/page0/Default.aspx");
         }
     }
 }
