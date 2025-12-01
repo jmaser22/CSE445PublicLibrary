@@ -103,7 +103,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="CheckoutBook.ascx" />
+    <Content Include="Member\CheckoutBook.ascx" />
     <None Include="Connected Services\CheckoutRef\CheckoutService.disco" />
     <None Include="Connected Services\CheckoutRef\configuration91.svcinfo" />
     <None Include="Connected Services\CheckoutRef\configuration.svcinfo" />
@@ -208,11 +208,11 @@
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="CheckoutBook.ascx.cs">
+    <Compile Include="Member\CheckoutBook.ascx.cs">
       <DependentUpon>CheckoutBook.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="CheckoutBook.ascx.designer.cs">
+    <Compile Include="Member\CheckoutBook.ascx.designer.cs">
       <DependentUpon>CheckoutBook.ascx</DependentUpon>
     </Compile>
     <Compile Include="Connected Services\CheckoutRef\Reference.cs">

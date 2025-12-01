@@ -26,7 +26,7 @@ namespace CSE445PublicLibrary
         {
 
             //memberpage
-            Response.Redirect("http://webstrar20.fulton.asu.edu/page4/MemberPage.aspx");
+            Response.Redirect("http://webstrar20.fulton.asu.edu/page0/Member/MemberPage.aspx");
 
         }
 
@@ -34,7 +34,7 @@ namespace CSE445PublicLibrary
         {
 
             //staff page
-            Response.Redirect("Staff/StaffPage.aspx");
+            Response.Redirect("http://webstrar20.fulton.asu.edu/page0/Staff/StaffPage.aspx");
         }
 
         

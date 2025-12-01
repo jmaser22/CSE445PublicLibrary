@@ -3,393 +3,589 @@
 	<Book>
 		<Title>To Kill a Mockingbird</Title>
 		<Author>Harper Lee</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>1984</Title>
 		<Author>George Orwell</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Pride and Prejudice</Title>
 		<Author>Jane Austen</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Great Gatsby</Title>
 		<Author>F. Scott Fitzgerald</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Moby-Dick</Title>
 		<Author>Herman Melville</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>War and Peace</Title>
 		<Author>Leo Tolstoy</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Catcher in the Rye</Title>
 		<Author>J.D. Salinger</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Hobbit</Title>
 		<Author>J.R.R. Tolkien</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Crime and Punishment</Title>
 		<Author>Fyodor Dostoevsky</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Odyssey</Title>
 		<Author>Homer</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Brave New World</Title>
 		<Author>Aldous Huxley</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Jane Eyre</Title>
 		<Author>Charlotte Brontë</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Wuthering Heights</Title>
 		<Author>Emily Brontë</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Lord of the Rings</Title>
 		<Author>J.R.R. Tolkien</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Brothers Karamazov</Title>
 		<Author>Fyodor Dostoevsky</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Fahrenheit 451</Title>
 		<Author>Ray Bradbury</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Animal Farm</Title>
 		<Author>George Orwell</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Great Expectations</Title>
 		<Author>Charles Dickens</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Little Women</Title>
 		<Author>Louisa May Alcott</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Dracula</Title>
 		<Author>Bram Stoker</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Frankenstein</Title>
 		<Author>Mary Shelley</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Grapes of Wrath</Title>
 		<Author>John Steinbeck</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Les Misérables</Title>
 		<Author>Victor Hugo</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Count of Monte Cristo</Title>
 		<Author>Alexandre Dumas</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Picture of Dorian Gray</Title>
 		<Author>Oscar Wilde</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Catch-22</Title>
 		<Author>Joseph Heller</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Don Quixote</Title>
 		<Author>Miguel de Cervantes</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Stranger</Title>
 		<Author>Albert Camus</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Anna Karenina</Title>
 		<Author>Leo Tolstoy</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>One Hundred Years of Solitude</Title>
 		<Author>Gabriel García Márquez</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Slaughterhouse-Five</Title>
 		<Author>Kurt Vonnegut</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Sound and the Fury</Title>
 		<Author>William Faulkner</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Lolita</Title>
 		<Author>Vladimir Nabokov</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>A Tale of Two Cities</Title>
 		<Author>Charles Dickens</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Kite Runner</Title>
 		<Author>Khaled Hosseini</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Alchemist</Title>
 		<Author>Paulo Coelho</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Chronicles of Narnia</Title>
 		<Author>C.S. Lewis</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Harry Potter and the Sorcerer's Stone</Title>
 		<Author>J.K. Rowling</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Da Vinci Code</Title>
 		<Author>Dan Brown</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Gone with the Wind</Title>
 		<Author>Margaret Mitchell</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Road</Title>
 		<Author>Cormac McCarthy</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Beloved</Title>
 		<Author>Toni Morrison</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Handmaid's Tale</Title>
 		<Author>Margaret Atwood</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Memoirs of a Geisha</Title>
 		<Author>Arthur Golden</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Girl with the Dragon Tattoo</Title>
 		<Author>Stieg Larsson</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Life of Pi</Title>
 		<Author>Yann Martel</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Fault in Our Stars</Title>
 		<Author>John Green</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Hunger Games</Title>
 		<Author>Suzanne Collins</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Dune</Title>
 		<Author>Frank Herbert</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Ender's Game</Title>
 		<Author>Orson Scott Card</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>A Game of Thrones</Title>
 		<Author>George R.R. Martin</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Shining</Title>
 		<Author>Stephen King</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>It</Title>
 		<Author>Stephen King</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Misery</Title>
 		<Author>Stephen King</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Carrie</Title>
 		<Author>Stephen King</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Stand</Title>
 		<Author>Stephen King</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Martian</Title>
 		<Author>Andy Weir</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Ready Player One</Title>
 		<Author>Ernest Cline</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Catcher Was a Spy</Title>
 		<Author>Nicholas Dawidoff</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Secret Garden</Title>
 		<Author>Frances Hodgson Burnett</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Wind in the Willows</Title>
 		<Author>Kenneth Grahame</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Charlotte's Web</Title>
 		<Author>E.B. White</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Jungle Book</Title>
 		<Author>Rudyard Kipling</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Alice's Adventures in Wonderland</Title>
 		<Author>Lewis Carroll</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Through the Looking-Glass</Title>
 		<Author>Lewis Carroll</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Little Prince</Title>
 		<Author>Antoine de Saint-Exupéry</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Giver</Title>
 		<Author>Lois Lowry</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Matilda</Title>
 		<Author>Roald Dahl</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Charlie and the Chocolate Factorye</Title>
 		<Author>Roald Dahl</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>James and the Giant Peach</Title>
 		<Author>Roald Dahl</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The BFG</Title>
 		<Author>Roald Dahl</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Tale of Peter Rabbit</Title>
 		<Author>Beatrix Potter</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Where the Wild Things Are</Title>
 		<Author>Maurice Sendak</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Goodnight Moon</Title>
 		<Author>Margaret Wise Brown</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Green Eggs and Ham</Title>
 		<Author>Dr. Seuss</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Cat in the Hat</Title>
 		<Author>Dr. Seuss</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Oh, the Places You'll Go!</Title>
 		<Author>Dr. Seuss</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Holes</Title>
 		<Author>Louis Sachar</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Wonder</Title>
 		<Author>R.J. Palacio</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Maze Runner</Title>
 		<Author>James Dashner</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Divergent</Title>
 		<Author>Veronica Roth</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Twilight</Title>
 		<Author>Stephenie Meyer</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Looking for Alaska</Title>
 		<Author>John Green</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Paper Towns</Title>
 		<Author>John Green</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Outsiders</Title>
 		<Author>S.E. Hinton</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Bridge to Terabithia</Title>
 		<Author>Katherine Paterson</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Lightning Thief</Title>
 		<Author>Rick Riordan</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Percy Jackson and the Olympians</Title>
 		<Author>Rick Riordan</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Heroes of Olympus</Title>
 		<Author>Rick Riordan</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Magnus Chase and the Gods of Asgard</Title>
 		<Author>Rick Riordan</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Mortal Instruments</Title>
 		<Author>Cassandra Clare</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Heroes of Olympus</Title>
 		<Author>Cassandra Clare</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>City of Bones</Title>
 		<Author>Cassandra Clare</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Infernal Devices</Title>
 		<Author>Cassandra Clare</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Clockwork Angel</Title>
 		<Author>Cassandra Clare</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>Coraline</Title>
 		<Author>Neil Gaiman</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>American Gods</Title>
 		<Author>Neil Gaiman</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 	<Book>
 		<Title>The Holy Bible</Title>
 		<Author>Jesus</Author>
+		<Available>false</Available>
+		<Borrower></Borrower>
 	</Book>
 </Books>

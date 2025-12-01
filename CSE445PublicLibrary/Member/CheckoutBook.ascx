@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="CheckoutBook.ascx.cs" Inherits="CSE445PublicLibrary.CheckoutBook" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" Async="true" CodeBehind="CheckoutBook.ascx.cs" Inherits="CSE445PublicLibrary.CheckoutBook" %>
 
 Inherits="Library.CheckoutBook" %>
 

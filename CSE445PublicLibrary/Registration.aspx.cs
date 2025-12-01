@@ -30,8 +30,8 @@ namespace CSE445PublicLibrary
             //need to call the Register REST Api to create a new account, if not success then user must re enter new username
             string role = "Member";
             if (IsStaff.Checked) role = "Staff";
-            string HashPassword = LibrarySecurity.Hash(passwordBox.Text);
-            string site = serviceUrl + $"/RegisterNewUser?username={usernameBox.Text}&HashedPassword={HashPassword}&role={role}";
+            string HashedPassword = LibrarySecurity.Hash(passwordBox.Text);
+            string site = serviceUrl + $"/RegisterNewUser?username={usernameBox.Text}&HashedPassword={HashedPassword}&role={role}";
 
             string response = "";
             using (var client = new HttpClient())
